@@ -1,7 +1,7 @@
 # Portfolio
 # screenshot
 
-
+<img width="1440" alt="portfolio Screen Shot " src="https://user-images.githubusercontent.com/81891066/122317031-d5d35c80-ceea-11eb-8f8d-cdf9b830f7a0.png">
 
 # Hey 👋, I'm Samuel kahura!
 
@@ -49,4 +49,4 @@ HTML
 
 # Link to Website
 
-
+https://snk-99.github.io/Portfolio/
